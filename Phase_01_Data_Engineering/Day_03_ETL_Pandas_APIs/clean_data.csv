@@ -1,0 +1,31 @@
+order_id,customer_name,product,category,quantity,unit_price,order_date,city,sales_rep,year,month,month_name,day_name,revenue
+1001,Ramesh Kumar,Laptop,Electronics,2,45000,2024-01-05,Mumbai,Anil Sharma,2024,1,January,Friday,90000
+1002,Priya Nair,Unknown Product,Electronics,1,15000,2024-01-07,Delhi,Sunita Rao,2024,1,January,Sunday,15000
+1003,Amit Verma,Keyboard,Accessories,3,1200,2024-01-08,Bangalore,Anil Sharma,2024,1,January,Monday,3600
+1004,Sunita Patel,Monitor,Electronics,2,22000,2024-01-10,Chennai,Ravi Kumar,2024,1,January,Wednesday,44000
+1005,Ramesh Kumar,Laptop,Electronics,2,45000,2024-01-05,Mumbai,Anil Sharma,2024,1,January,Friday,90000
+1006,Kiran Mehta,Mouse,Accessories,10,800,2024-01-07,Pune,Sunita Rao,2024,1,January,Sunday,8000
+1007,Deepak Singh,Headphones,Electronics,2,3500,2024-01-12,Hyderabad,Ravi Kumar,2024,1,January,Friday,7000
+1008,Unknown Customer,Webcam,Accessories,1,2500,2024-01-13,Mumbai,Anil Sharma,2024,1,January,Saturday,2500
+1009,Ananya Das,Laptop,Electronics,1,45000,2024-01-15,Kolkata,Sunita Rao,2024,1,January,Monday,45000
+1010,Vikram Iyer,Keyboard,Accessories,5,1200,2024-01-15,Chennai,Ravi Kumar,2024,1,January,Monday,6000
+1011,Pooja Gupta,Monitor,Electronics,2,22000,2024-01-18,Delhi,Anil Sharma,2024,1,January,Thursday,44000
+1012,Suresh Rao,USB Hub,Accessories,8,600,2024-01-20,Bangalore,Sunita Rao,2024,1,January,Saturday,4800
+1013,Meera Joshi,Laptop,Electronics,2,45000,2024-01-22,Pune,Ravi Kumar,2024,1,January,Monday,90000
+1014,Arjun Nair,Headphones,Electronics,3,3500,2024-01-21,Kochi,Anil Sharma,2024,1,January,Sunday,10500
+1015,Tanvi Mehta,Webcam,Accessories,2,2500,2024-01-25,Surat,Sunita Rao,2024,1,January,Thursday,5000
+1016,Kiran Mehta,Mouse,Accessories,10,800,2024-01-07,Pune,Sunita Rao,2024,1,January,Sunday,8000
+1017,Deepak Singh,Keyboard,Accessories,5,1200,2024-01-28,Hyderabad,Ravi Kumar,2024,1,January,Sunday,6000
+1018,Rohit Verma,Monitor,Electronics,1,22000,2024-01-30,Delhi,Anil Sharma,2024,1,January,Tuesday,22000
+1019,Sneha Reddy,Laptop,Electronics,1,45000,2024-02-01,Hyderabad,Ravi Kumar,2024,2,February,Thursday,45000
+1020,Gaurav Shukla,USB Hub,Accessories,15,600,2024-02-03,Lucknow,Sunita Rao,2024,2,February,Saturday,9000
+1021,Nisha Kapoor,Headphones,Electronics,2,3500,2024-02-05,Chandigarh,Anil Sharma,2024,2,February,Monday,7000
+1022,Ajay Tiwari,Webcam,Accessories,3,2500,2024-02-07,Bhopal,Ravi Kumar,2024,2,February,Wednesday,7500
+1023,Ananya Das,Laptop,Electronics,1,45000,2024-01-15,Kolkata,Sunita Rao,2024,1,January,Monday,45000
+1024,Preeti Saxena,Keyboard,Accessories,4,1200,2024-02-10,Kanpur,Anil Sharma,2024,2,February,Saturday,4800
+1025,Amit Bose,Mouse,Accessories,6,800,2024-02-12,Kolkata,Sunita Rao,2024,2,February,Monday,4800
+1026,Unknown Customer,Headphones,Electronics,1,3500,2024-02-14,Mumbai,Ravi Kumar,2024,2,February,Wednesday,3500
+1027,Rekha Nair,Monitor,Uncategorized,2,22000,2024-02-15,Kochi,Anil Sharma,2024,2,February,Thursday,44000
+1028,Harish Pillai,Laptop,Electronics,3,45000,2024-02-18,Thiruvananthapuram,Ravi Kumar,2024,2,February,Sunday,135000
+1029,Sanjay Dubey,USB Hub,Accessories,10,600,2024-02-20,Allahabad,Sunita Rao,2024,2,February,Tuesday,6000
+1030,Kavya Nambiar,Webcam,Accessories,2,2500,2024-02-22,Thrissur,Anil Sharma,2024,2,February,Thursday,5000
