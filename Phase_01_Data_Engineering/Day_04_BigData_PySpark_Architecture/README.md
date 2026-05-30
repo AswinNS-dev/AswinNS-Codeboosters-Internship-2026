@@ -273,14 +273,14 @@ SOURCE DATA (raw CSV/JSON/API)
 
 ## Day 4 Completion Checklist
 
-- [ ] `spark.version` printed successfully (Cell 2)
-- [ ] `df_bronze.count()` returns 5000
-- [ ] `sales_bronze.parquet` saved
-- [ ] `sales_silver.parquet` saved with new columns
-- [ ] At least one Gold Parquet table saved
-- [ ] `big_data_dashboard.png` visible in output
-- [ ] Notebook uploaded to GitHub
-- [ ] Commit: `Add Day 4: Big Data PySpark Medallion Pipeline`
+- ✅ `spark.version` printed successfully (Cell 2)
+- ✅ `df_bronze.count()` returns 5000
+- ✅ `sales_bronze.parquet` saved
+- ✅ `sales_silver.parquet` saved with new columns
+- ✅ At least one Gold Parquet table saved
+- ✅ `big_data_dashboard.png` visible in output
+- ✅ Notebook uploaded to GitHub
+- ✅ Commit: `Add Day 4: Big Data PySpark Medallion Pipeline`
 
 ---
 
