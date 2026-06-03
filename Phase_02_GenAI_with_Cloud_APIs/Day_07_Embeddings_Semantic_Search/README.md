@@ -1,4 +1,3 @@
-70% of storage used … If you run out, you can't create, edit and upload files. Get 30 GB for ₹15 for 3 months ₹59.
 # Day 6 — Student Reference Guide
 ## Introduction to GenAI + Prompt Engineering
 ### Codeboosters Tech | Phase 2 Begins
